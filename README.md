@@ -1,7 +1,7 @@
-# Bangalore House Price Prediction
+# Bengaluru House Price Prediction
 
 ## Project Overview
-Machine learning project to predict house prices in Bangalore using housing dataset.
+Machine learning project to predict house prices in Bengaluru using housing dataset.
 
 ## Dataset
 - 13,000+ rows
@@ -36,4 +36,4 @@ Machine learning project to predict house prices in Bangalore using housing data
 - Joblib
 
 ## Output
-Predicted Bangalore house prices using trained model.
+Predicted Bengaluru house prices using trained model.
